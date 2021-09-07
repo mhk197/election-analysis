@@ -19,6 +19,6 @@ The purpose of this analysis was to audit the results of a congressional electio
 * Diana DeGette won the election, with 73.8% of the vote and 272,892 votes in total
 
 ## Election Audit Summary
-This Python script can be modified to audit virtually any election. However, the election data must be in tabular format -- with rows corresponding to individual votes -- and there must be columns recording (a) the candidate for which and (b) the county from which the vote cast.
+This Python script can be modified to audit virtually any election. However, the election data must be in tabular format -- with rows corresponding to individual votes -- and there must be columns recording (a) the candidate for which the vote was cast and (b) the county from which the vote was cast.
 
 The 
