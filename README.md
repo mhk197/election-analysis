@@ -17,3 +17,8 @@ The purpose of this analysis was to audit the results of a congressional electio
     * Charles Casper Stockham: 85,213 votes (23.0% of total)
     * Raymon Anthony Doane: 11,606 votes (3.1% of total)
 * Diana DeGette won the election, with 73.8% of the vote and 272,892 votes in total
+
+## Election Audit Summary
+This Python script can be modified to audit virtually any election. However, the election data must be in tabular format -- with rows corresponding to individual votes -- and there must be columns recording (a) the candidate for which and (b) the county from which the vote cast.
+
+The 
